@@ -73,7 +73,7 @@ We're going to name the Teams as "Online Banking" and then "Create Team".
 
 We are going to create two agents, Jane Doe and John Doe
 
-# Jane Doe
+<h4>Jane Doe</h4>
 
 ![image](https://github.com/user-attachments/assets/04ce4951-1ed7-4322-a835-b92a80be6f05)
 
@@ -89,7 +89,7 @@ We are going to create two agents, Jane Doe and John Doe
 
 
 
-# John Doe
+<h4>John Doe</h4>
 
 With John, we'll have him in the Support Department, a View Only role, and no assigned team. We then click "Create" afterwards
 
