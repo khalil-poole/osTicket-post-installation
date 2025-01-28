@@ -10,7 +10,7 @@ So let's begin by starting up the Virtual Machine if you stopped it from the pre
 
 Connect to the Remote Desktop and then login to osTicket as an Admin using the credentials made in the previous tutorial -> http://localhost/osTicket/scp/login.php
 
-<h2>Roles, Departments, and Teams</h2>
+<h2>Step 1: Roles, Departments, and Teams</h2>
 
 <h3>Configure Roles (for grouping permissions)</h3>
 
@@ -68,3 +68,32 @@ Online Banking
 We're going to name the Teams as "Online Banking" and then "Create Team".
 
 ![image](https://github.com/user-attachments/assets/a77749b8-d75a-4109-9575-cbc76e735a11)
+
+<h3>Step 2: End User Setup</h3>
+
+We are going to create two agents, Jane Doe and John Doe
+
+# Jane Doe
+
+![image](https://github.com/user-attachments/assets/04ce4951-1ed7-4322-a835-b92a80be6f05)
+
+![image](https://github.com/user-attachments/assets/3f38a8ee-121a-4435-a02d-f225c9708c9f)
+
+![image](https://github.com/user-attachments/assets/cfd33bf5-3752-430f-b76f-9fc676c82c4e)
+
+![image](https://github.com/user-attachments/assets/e5904852-e336-44be-8c87-48179cf0aa92)
+
+![image](https://github.com/user-attachments/assets/24cb3ac3-7161-4113-a302-f47f36bbdc46)
+
+![image](https://github.com/user-attachments/assets/2c0800ca-4567-40cd-996a-57c769d20710)
+
+
+
+# John Doe
+
+With John, we'll have him in the Support Department, a View Only role, and no assigned team. We then click "Create" afterwards
+
+![image](https://github.com/user-attachments/assets/067fe281-950c-4432-a3dd-24cb8dfd2ea0)
+
+
+
