@@ -71,6 +71,8 @@ We're going to name the Teams as "Online Banking" and then "Create Team".
 
 <h3>Step 2: End User Setup</h3>
 
+<h3>Agents</h3>
+
 We are going to create two agents, Jane Doe and John Doe
 
 <h4>Jane Doe</h4>
@@ -96,4 +98,17 @@ With John, we'll have him in the Support Department, a View Only role, and no as
 ![image](https://github.com/user-attachments/assets/067fe281-950c-4432-a3dd-24cb8dfd2ea0)
 
 
+<h3>Users</h3>
+Will be configuring Users under the Agent Panel this time.
 
+Agent Panel -> Users -> Add New
+
+<h4>Karen and Ken</h4>
+
+![image](https://github.com/user-attachments/assets/830b71b1-58bc-4b32-8246-1cdaff32a3ba)
+
+![image](https://github.com/user-attachments/assets/75389b9a-5d64-466f-b2ee-14b76a80f428)
+
+![image](https://github.com/user-attachments/assets/cb7a1765-f5ad-412d-986f-55ee7c907769)
+
+Save Karen's and Ken's credentials for later.
