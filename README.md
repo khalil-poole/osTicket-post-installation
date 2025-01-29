@@ -117,7 +117,7 @@ Save Karen's and Ken's credentials for later.
 
 Let's go back into the Admin Panel to setup the SLAs. 
 
-*Remember, an SLA is basically an agreement on how long the support team has to communicate with end users and resolve problems depending on the severity of the issues at hand.
+*Remember, an SLA is basically an agreement on how long the support team has to communicate with end users and resolve tickets depending on the severity of the issues at hand.
 
 Admin Panel -> Manage -> SLA
 Sev-A (Grace Period: 1 hour, Schedule: 24/7)
@@ -136,4 +136,24 @@ Sev-C (Grace Period: 8 hours, Business Hours)
 ![image](https://github.com/user-attachments/assets/2692137b-31f0-4b42-943f-b979000eeb1d)
 
 
+<h3>Creating Help Topics</h3>
+
+This is used for when an end user submits a ticket.
+
+Configure Help Topics (For when users create a ticket)
+Admin Panel -> Manage -> Help Topics
+
+![image](https://github.com/user-attachments/assets/09a075e1-2e38-4c52-9a7d-4cd8502b4593)
+
+![image](https://github.com/user-attachments/assets/a0cc30cc-f897-424d-abe6-f5e50d510ef4)
+
+Repeat the steps for the following Topics:
+
+*Personal Computer Issues
+
+*Equipment Request
+
+*Password Reset
+
+*Other
 
