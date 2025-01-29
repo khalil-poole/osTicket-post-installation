@@ -112,3 +112,28 @@ Agent Panel -> Users -> Add New
 ![image](https://github.com/user-attachments/assets/cb7a1765-f5ad-412d-986f-55ee7c907769)
 
 Save Karen's and Ken's credentials for later.
+
+<h3>Service Level Agreement (SLA)</h3>
+
+Let's go back into the Admin Panel to setup the SLAs. 
+
+*Remember, an SLA is basically an agreement on how long the support team has to communicate with end users and resolve problems depending on the severity of the issues at hand.
+
+Admin Panel -> Manage -> SLA
+Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+Sev-C (Grace Period: 8 hours, Business Hours)
+
+
+![image](https://github.com/user-attachments/assets/73bfab97-5b2f-4d81-901b-6ebe834d6578)
+
+![image](https://github.com/user-attachments/assets/ca9264ec-b3d8-4e42-83d1-8a7153742c5f)
+
+![image](https://github.com/user-attachments/assets/79202765-a9c2-4ef9-88f4-31138239931f)
+
+![image](https://github.com/user-attachments/assets/8e3f2c3c-6e2e-4000-b48d-c682c9330526)
+
+![image](https://github.com/user-attachments/assets/2692137b-31f0-4b42-943f-b979000eeb1d)
+
+
+
