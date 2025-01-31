@@ -8,7 +8,7 @@ So let's begin by starting up the Virtual Machine if you stopped it from the pre
 
 ![image](https://github.com/user-attachments/assets/33f483c9-f11f-4aae-844c-625bbc852ac0)
 
-Connect to the Remote Desktop and then login to osTicket as an Admin using the credentials made in the previous tutorial -> http://localhost/osTicket/scp/login.php
+Connect to the Remote Desktop and then login to osTicket as an Admin using the credentials made in the previous tutorial <a href="http://localhost/osTicket/scp/login.php/"> here.
 
 <h2>Step 1: Roles, Departments, and Teams</h2>
 
@@ -157,4 +157,4 @@ Repeat the steps for the following Topics:
 
 *Other
 
-In the next Tutorial, we'll be tackling a mockup ticket.
+In the next Tutorial, we'll be tackling a mockup ticket. When you're ready, click <a href="https://github.com/khalil-poole/osTicket-Creating-Working-and-Completing/">here</a>.
