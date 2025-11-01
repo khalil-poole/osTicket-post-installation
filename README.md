@@ -150,13 +150,13 @@ Admin Panel -> Manage -> "Add New SLA Plan"
 
 We'll be creating three individual plans here. Follow along using the screenshots shown below.
 
-1. Sev-A (Grace Period: 1 hour, Schedule: 24/7) - High Priority
+1. Severity-A (Grace Period: 1 hour, Schedule: 24/7) - High Priority
 
 
-2. Sev-B (Grace Period: 4 hours, Schedule: 24/7) - Middle Priority
+2. Severity-B (Grace Period: 4 hours, Schedule: 24/7) - Middle Priority
 
 
-3. Sev-C (Grace Period: 8 hours, Monday - Friday 8am - 5pm) - Low Priority
+3. Severity-C (Grace Period: 8 hours, Monday - Friday 8am - 5pm) - Low Priority
 
 
 
