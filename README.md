@@ -156,7 +156,7 @@ We'll be creating three individual plans here. Follow along using the screenshot
 2. Sev-B (Grace Period: 4 hours, Schedule: 24/7) - Middle Priority
 
 
-3. Sev-C (Grace Period: 8 hours, Business Hours) - Low Priority
+3. Sev-C (Grace Period: 8 hours, Monday - Friday 8am - 5pm) - Low Priority
 
 
 
