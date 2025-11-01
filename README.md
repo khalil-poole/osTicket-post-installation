@@ -146,10 +146,18 @@ Let's go back into the Admin Panel to setup the SLAs.
 
 *Remember, an SLA is basically an agreement on how long the support team has to communicate with end users and resolve tickets depending on the severity of the issues at hand.
 
-Admin Panel -> Manage -> SLA
-Sev-A (Grace Period: 1 hour, Schedule: 24/7)
-Sev-B (Grace Period: 4 hours, Schedule: 24/7)
-Sev-C (Grace Period: 8 hours, Business Hours)
+Admin Panel -> Manage -> "Add New SLA Plan"
+
+We'll be creating three individual plans here. Follow along using the screenshots shown below.
+
+1. Sev-A (Grace Period: 1 hour, Schedule: 24/7)
+
+
+2. Sev-B (Grace Period: 4 hours, Schedule: 24/7)
+
+
+3. Sev-C (Grace Period: 8 hours, Business Hours)
+
 
 
 ![image](https://github.com/user-attachments/assets/73bfab97-5b2f-4d81-901b-6ebe834d6578)
