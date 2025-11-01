@@ -182,14 +182,14 @@ Admin Panel -> Manage -> Help Topics -> "Add New Help Topic"
 
 ![image](https://github.com/user-attachments/assets/a0cc30cc-f897-424d-abe6-f5e50d510ef4)
 
-Repeat the steps for the following Topics:
+Repeat the steps above for the following Topics:
 
-*Personal Computer Issues
+*Personal Computer Issues / Report a Problem
 
-*Equipment Request
+*Equipment Request / General Inquiry
 
-*Password Reset
+*Password Reset / Report a Problem
 
-*Other
+*Other / General Inquiry
 
 In the next Tutorial, we'll be tackling a mockup ticket. When you're ready, click <a href="https://github.com/khalil-poole/osTicket-Creating-Working-and-Completing/">here</a>.
