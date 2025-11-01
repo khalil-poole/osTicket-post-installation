@@ -52,10 +52,10 @@ Ensure that all boxes are checked for the "Tickets" and "Tasks" tabs. Ignore the
 
 Click "Save Changes" and let's go to the next step.
 
-<h3>Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)</h3>
+<h3>Configure Departments</h3>
 
 
-Think of Departments as ticket visibility for certain employees. 
+Think of Departments as ticket visibility for certain employees within the IT field. 
 
 
 Admin Panel -> Agents -> Departments
