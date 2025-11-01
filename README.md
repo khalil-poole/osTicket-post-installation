@@ -137,7 +137,6 @@ Agent Panel -> Users -> Add New
 
 ![image](https://github.com/user-attachments/assets/75389b9a-5d64-466f-b2ee-14b76a80f428)
 
-![image](https://github.com/user-attachments/assets/cb7a1765-f5ad-412d-986f-55ee7c907769)
 
 Save Karen's credentials for later.
 
