@@ -26,7 +26,12 @@ http://localhost/osTicket
 
 <h3>Configure Roles (for grouping permissions)</h3>
 
-Please make sure that you follow the red rectangles in the screenshots to know where to properly click to avoid confusion and missing any vital steps to setting up all of the post-installations. 
+Please make sure that you follow the red rectangles in the screenshots to know where to properly click to avoid confusion and missing any vital steps to setting up all of the post-installations. To clear up some additional confusion, I'll explain the difference between the Admin and the Agent.
+
+Admin - Setting up osTicket from the backend
+
+Agent - For help desk employees.
+
 
 ![image](https://github.com/user-attachments/assets/9989aabe-18ee-4f7c-85c5-0784dbbc9b3c)
 
