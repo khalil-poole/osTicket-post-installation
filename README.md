@@ -54,6 +54,10 @@ Click "Save Changes" and let's go to the next step.
 
 <h3>Configure Departments (Ticket Visibility, Help Desk vs SysAdmins, vs Networking)</h3>
 
+
+Think of Departments as ticket visibility for certain employees. 
+
+
 Admin Panel -> Agents -> Departments
 
 ![image](https://github.com/user-attachments/assets/2b433e56-0e6f-4f61-952d-895e55282d9c)
@@ -71,6 +75,7 @@ We're going to name the Department as "SysAdmin" and then scroll down to the bot
 
 <h3>Configure Teams</h3>
 
+Teams can be best explains as a group of people created together from a different department.
 
 Admin Panel -> Agents -> Teams (Pull Agents from different Departments)
 Online Banking
