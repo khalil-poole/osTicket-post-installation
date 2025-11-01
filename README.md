@@ -107,9 +107,7 @@ Agents are all employees within an organization, including those within IT and e
 
 ![image](https://github.com/user-attachments/assets/cfd33bf5-3752-430f-b76f-9fc676c82c4e)
 
-![image](https://github.com/user-attachments/assets/e5904852-e336-44be-8c87-48179cf0aa92)
-
-![image](https://github.com/user-attachments/assets/24cb3ac3-7161-4113-a302-f47f36bbdc46)
+<img width="1072" height="510" alt="image" src="https://github.com/user-attachments/assets/4c3f725e-96b5-4192-92b9-87d3c2a2cc14" />
 
 ![image](https://github.com/user-attachments/assets/2c0800ca-4567-40cd-996a-57c769d20710)
 
