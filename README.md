@@ -10,7 +10,7 @@ So let's begin by starting up the Virtual Machine if you stopped it from the pre
 
 Connect to the Remote Desktop and then login to osTicket as an Admin using the credentials made in the previous tutorial <a href="http://localhost/osTicket/scp/login.php/"> here.
 
-For future reference
+For future reference copy and paste these URLs inside of the VM.
 
 
 Admin/Analyst Login Page:
