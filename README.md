@@ -127,11 +127,11 @@ With John, we'll use his first name, last name, email, and create a password lik
 
 
 <h3>Users</h3>
-Will be configuring Users under the Agent Panel this time.
+Will be configuring Users under the Agent Panel this time. 
 
 Agent Panel -> Users -> Add New
 
-<h4>Karen and Ken</h4>
+<h4>User Karen</h4>
 
 ![image](https://github.com/user-attachments/assets/830b71b1-58bc-4b32-8246-1cdaff32a3ba)
 
@@ -139,7 +139,7 @@ Agent Panel -> Users -> Add New
 
 ![image](https://github.com/user-attachments/assets/cb7a1765-f5ad-412d-986f-55ee7c907769)
 
-Save Karen's and Ken's credentials for later.
+Save Karen's credentials for later.
 
 <h3>Service Level Agreement (SLA)</h3>
 
