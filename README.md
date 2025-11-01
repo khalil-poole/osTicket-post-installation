@@ -45,7 +45,7 @@ We going to give the name of this new role as "Supreme Admin" and give it all pe
 
 ![image](https://github.com/user-attachments/assets/ee713c05-83a9-441b-90e2-b2341a74db16)
 
-Ensure that all boxes are checked for all three tabs.
+Ensure that all boxes are checked for the "Tickets" and "Tasks" tabs. Ignore the Knowledge base tab.
 
 ![image](https://github.com/user-attachments/assets/c0098bce-b84e-4c98-ad6e-94cd527ce92a)
 
