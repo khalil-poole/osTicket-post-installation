@@ -107,6 +107,9 @@ Agents are all employees within an organization, including those within IT and e
 
 ![image](https://github.com/user-attachments/assets/cfd33bf5-3752-430f-b76f-9fc676c82c4e)
 
+<img width="808" height="492" alt="image" src="https://github.com/user-attachments/assets/9d964c61-88c2-4889-bf52-a5f461b5573a" />
+
+
 <img width="1072" height="510" alt="image" src="https://github.com/user-attachments/assets/4c3f725e-96b5-4192-92b9-87d3c2a2cc14" />
 
 ![image](https://github.com/user-attachments/assets/2c0800ca-4567-40cd-996a-57c769d20710)
@@ -115,7 +118,7 @@ Agents are all employees within an organization, including those within IT and e
 
 <h4>John Doe</h4>
 
-With John, we'll have him in the Support Department, a View Only role, and no assigned team. We then click "Create" afterwards
+With John, we'll use his first name, last name, email, and create a password like we did with Jane. The difference is we'll have John in the Support Department, a View Only role, and no assigned team. We'll then click "Create" afterwards.
 
 ![image](https://github.com/user-attachments/assets/067fe281-950c-4432-a3dd-24cb8dfd2ea0)
 
