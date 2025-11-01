@@ -127,7 +127,7 @@ With John, we'll use his first name, last name, email, and create a password lik
 
 
 <h3>Users</h3>
-Will be configuring Users under the Agent Panel this time. 
+Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product.
 
 Agent Panel -> Users -> Add User
 
@@ -192,4 +192,12 @@ Repeat the steps above for the following Topics:
 
 *Other / General Inquiry
 
+This covers the installation needed to get started working on osTicket. To recap this section we learned the differences between Admin and Agent Panels, and we configured Roles, Departments, Teams, Agents, Users, Service Level Agreements, and Help Topics.
+
 In the next Tutorial, we'll be tackling a mockup ticket. When you're ready, click <a href="https://github.com/khalil-poole/osTicket-Creating-Working-and-Completing/">here</a>.
+
+
+As a quick reminder, if you need to take a break or come back at a later time, this is how you can stop the VM. 
+
+![image](https://github.com/user-attachments/assets/92abfa3a-0dc5-4284-8fde-ab364f9f546d)
+
