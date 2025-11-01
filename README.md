@@ -129,7 +129,7 @@ With John, we'll use his first name, last name, email, and create a password lik
 <h3>Users</h3>
 Will be configuring Users under the Agent Panel this time. 
 
-Agent Panel -> Users -> Add New
+Agent Panel -> Users -> Add User
 
 <h4>User Karen</h4>
 
