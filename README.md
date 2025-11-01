@@ -95,7 +95,7 @@ We're going to name the Teams as "Online Banking" and then "Create Team".
 
 <h3>Agents</h3>
 
-We are going to create two agents, Jane Doe and John Doe
+We are going to create two agents, Jane Doe and John Doe.
 
 <h4>Jane Doe</h4>
 
