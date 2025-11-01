@@ -97,6 +97,8 @@ We're going to name the Teams as "Online Banking" and then "Create Team".
 
 We are going to create two agents, Jane Doe and John Doe.
 
+Agents are all employees within an organization, including those within IT and even executive roles.
+
 <h4>Jane Doe</h4>
 
 ![image](https://github.com/user-attachments/assets/04ce4951-1ed7-4322-a835-b92a80be6f05)
