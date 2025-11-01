@@ -173,10 +173,10 @@ We'll be creating three individual plans here. Follow along using the screenshot
 
 <h3>Creating Help Topics</h3>
 
-This is used for when an end user submits a ticket.
+Help Topics are used when an end user or employee needs to submit a ticket with the best category of an issue they're having.
 
 Configure Help Topics (For when users create a ticket)
-Admin Panel -> Manage -> Help Topics
+Admin Panel -> Manage -> Help Topics -> "Add New Help Topic"
 
 ![image](https://github.com/user-attachments/assets/09a075e1-2e38-4c52-9a7d-4cd8502b4593)
 
