@@ -126,6 +126,12 @@ With John, we'll use his first name, last name, email, and create a password lik
 ![image](https://github.com/user-attachments/assets/067fe281-950c-4432-a3dd-24cb8dfd2ea0)
 
 
+***November 1st Update*** - there was some apparent issues that came up in the next section of this lab involving some settings, so to prevent any mishaps in the future, we're going to change his access from "View Only" to "All Access". Click "Save Changes" afterward.
+
+<img width="1212" height="676" alt="image" src="https://github.com/user-attachments/assets/0f77c3ab-0b7f-47be-9021-b9cbe3670530" />
+
+
+
 <h3>Users</h3>
 Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product.
 
