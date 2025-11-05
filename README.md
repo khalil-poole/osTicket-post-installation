@@ -133,18 +133,22 @@ With John, we'll use his first name, last name, email, and create a password lik
 
 
 <h3>Users</h3>
-Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product.
+Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product. We'll create Karen and Ken.
 
 Agent Panel -> Users -> Add User
 
-<h4>User Karen</h4>
+<h4>Users Karen and Ken</h4>
 
 ![image](https://github.com/user-attachments/assets/830b71b1-58bc-4b32-8246-1cdaff32a3ba)
 
 ![image](https://github.com/user-attachments/assets/75389b9a-5d64-466f-b2ee-14b76a80f428)
 
+Follow the same procedure to create user Ken, neither users need a password.
 
-Save Karen's credentials for later.
+Save both user credentials for later.
+
+
+
 
 <h3>Service Level Agreement (SLA)</h3>
 
