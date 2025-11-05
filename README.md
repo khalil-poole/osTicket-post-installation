@@ -133,7 +133,7 @@ With John, we'll use his first name, last name, email, and create a password lik
 
 
 <h3>Users</h3>
-Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product. We'll create Karen and Ken.
+Will be configuring Users under the Agent Panel this time. Users are the customers that are using an organization's service or product. 
 
 Agent Panel -> Users -> Add User
 
